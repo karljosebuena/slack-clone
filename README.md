@@ -1,6 +1,18 @@
-# Getting Started with Create React App and Redux
+## Slack Clone REACT.JS! (with REDUX, Styled components & Firebase Hooks) 🔥
+
+Built with:
+👉 REDUX
+👉 REACT ROUTER
+👉 FIREBASE FIRESTORE (realtime database)
+👉 FIREBASE AUTHENTICATION (Login)
+👉 FIREBASE HOSTING (and deployment)
+👉 REACT HOOKS FORMS
+👉 MATERIAL UI (Design)
+👉 Styled Components 🥷
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+
+Demo: https://kjb--clone.web.app/
 
 ## Available Scripts
 
